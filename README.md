@@ -18,7 +18,7 @@ This is a one page site made for an unknown DJ.
 * PT Sans Font
 
 ## Demo
-* Clone this repository (https://github.com/Shkvoroff/EquationSolver-QuadraticEquations.git) on your local machine
+* Clone this repository (https://github.com/Shkvoroff/WebDesign-DJLandingPage.git) on your local machine
 * Open this project in Adobe Photoshop
 * Enjoy the design
 
